@@ -55,6 +55,13 @@ pip install xgboost
 pip install tensorflow
 ```
 
+## Docker
+
+If you are comfortable using docker you can use the following guide:
+
+Code: [Setup using Docker](./environment/README.md)
+
+
 ## Cloud
 
 Instead of running things locally, you can use online services or rent a server 
@@ -110,9 +117,10 @@ Steps for Google Colab are same as that for Kaggle, except for some changes in S
 
    https://colab.research.google.com/github/alexeygrigorev/mlbookcamp-code/blob/master/chapter-02-car-price/02-carprice.ipynb
 
+
 ## Navigation
 
 * [Machine Learning Zoomcamp course](../)
-* [Lesson 1: Introduction to Machine Learning](README.md)
+* [Lesson 1: Introduction to Machine Learning](./)
 * Previous lesson: [The Modelling Step (Model Selection Process)](05-model-selection.md)
 * Next lesson: [Introduction to NumPy](07-numpy.md)
